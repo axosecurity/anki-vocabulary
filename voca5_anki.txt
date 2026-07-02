@@ -1,0 +1,83 @@
+fed : I fed the dog yesterday. <br> <b> Verb </b> <br> feed , fed , fed <br> -B খাওয়ানো খাদ্যদেওয়া আহারকরানো <br> -S nourished supplied served provided <br> -A starved deprived withheld
+
+appendix : See the appendix for more details. <br> <b> Noun </b> <br> -B পরিশিষ্ট সংযোজনী অতিরিক্তঅংশ <br> -S supplement addendum attachment annex <br> -A maintext body core
+
+annexation : The treaty included the incorporation of new lands. <br> <b> Noun </b> <br> -B সংযুক্তিকরণ দখল অন্তর্ভুক্তিকরণ <br> -S annexation incorporation absorption integration <br> -A separation independence detachment
+
+incorporation : The treaty included the incorporation of new lands. <br> <b> Noun </b> <br> -B অন্তর্ভুক্তিকরণ সংযোজন সংযুক্তিকরণ <br> -S annexation integration absorption inclusion <br> -A separation exclusion detachment
+
+banquet : They organized a grand banquet for the guests. <br> <b> Noun </b> <br> -B ভোজ ভোজসভা আপ্যায়ন <br> -S feast dinner reception celebration <br> -A fast scarcity famine
+
+bilingual : Yunus did not need a multilingual interpreter in the meeting. <br> <b> Adjective </b> <br> -B দ্বিভাষিক দুইভাষাজানা দ্বিভাষাসংক্রান্ত <br> -S bilingual multilingual diglot polyglot <br> -A monolingual unilingual single-language
+
+multilingual : Yunus did not need a multilingual interpreter in the meeting. <br> <b> Adjective </b> <br> -B বহুভাষিক বহু-ভাষাজানা বহু-ভাষাসংক্রান্ত <br> -S bilingual polyglot multilingual plurilingual <br> -A monolingual unilingual single-language
+
+monolingual : Yunus needed only a monolingual interpreter for the meeting. <br> <b> Adjective </b> <br> -B একভাষিক একভাষাজানা একভাষাসংক্রান্ত <br> -S unilingual single-language monoglot <br> -A bilingual multilingual polyglot
+
+polyglot : He was a famous polyglot who could speak seven languages. <br> <b> Noun </b> <br> -B বহুভাষাবিদ বহুভাষাজানা-ব্যক্তি ভাষাবিশারদ <br> -S multilingual linguist plurilingual speaker <br> -A monolingual unilingual monoglot
+
+census : The census provides data about the population. <br> <b> Noun </b> <br> -B আদমশুমারি জনগণনা জনসংখ্যাগণনা <br> -S survey count enumeration register <br> -A estimate guess omission
+
+geriatric : It is a hospital for geriatric patients. <br> <b> Adjective </b> <br> -B বার্ধক্যসংক্রান্ত বৃদ্ধসংক্রান্ত প্রবীণচিকিৎসাসংক্রান্ত <br> -S elderly aged senior old-age <br> -A pediatric youthful juvenile
+
+geriatric : Geriatric patients need extra care. <br> <b> Adjective </b> <br> -B বার্ধক্যসংক্রান্ত বৃদ্ধসংক্রান্ত প্রবীণচিকিৎসাসংক্রান্ত <br> -S elderly aged senior old-age <br> -A pediatric youthful juvenile
+
+apologized : I apologized to my teacher for being late. <br> <b> Verb </b> <br> apologize , apologized , apologized <br> -B ক্ষমাচাওয়া দুঃখপ্রকাশকরা ক্ষমাপ্রার্থনাকরা <br> -S regretted confessed excused atoned <br> -A blamed denied accused
+
+apology : His apology was accepted by Allah. <br> <b> Noun </b> <br> -B ক্ষমাপ্রার্থনা দুঃখপ্রকাশ অনুশোচনা <br> -S regret excuse repentance confession <br> -A accusation denial blame
+
+apologetic : I was apologetic for my work. <br> <b> Adjective </b> <br> -B অনুতপ্ত ক্ষমাপ্রার্থী দুঃখিত <br> -S sorry remorseful regretful repentant <br> -A unapologetic defiant proud
+
+apologetically : He apologetically explained everything. <br> <b> Adverb </b> <br> -B ক্ষমাপ্রার্থনাভাবে অনুতপ্তভাবে দুঃখপ্রকাশকরে <br> -S remorsefully regretfully contritely repentantly <br> -A defiantly proudly unapologetically
+
+ran : He ran very fast to catch the bus. <br> <b> Verb </b> <br> run , ran , run <br> -B দৌড়েছিল ছুটেছিল দ্রুতগিয়েছিল <br> -S sprinted raced dashed hurried <br> -A walked stopped crawled
+
+gave : I gave Tuba a gift. <br> <b> Verb </b> <br> give , gave , given <br> -B দিয়েছিলাম উপহারদিয়েছিলাম প্রদানকরেছিলাম <br> -S offered presented handed donated <br> -A took received withheld
+
+forgotten : At that moment, I had forgotten his name. <br> <b> Verb </b> <br> forget , forgot , forgotten <br> -B ভুলেগিয়েছিলাম বিস্মৃতহয়েছিলাম মনেথাকেনি <br> -S overlooked lost ignored neglected <br> -A remembered recalled recognized
+
+spoke : We spoke about politics. <br> <b> Verb </b> <br> speak , spoke , spoken <br> -B বলেছিলাম কথাবলেছিলাম আলোচনা-করেছিলাম <br> -S talked discussed conversed mentioned <br> -A listened silenced ignored
+
+founded : We founded a company. <br> <b> Verb </b> <br> found , founded , founded <br> -B প্রতিষ্ঠাকরেছিলাম স্থাপনকরেছিলাম গড়েছিলাম <br> -S established created launched formed <br> -A closed dissolved destroyed
+
+took : She took the book yesterday. <br> <b> Verb </b> <br> take , took , taken <br> -B নিয়েছিল গ্রহণকরেছিল তুলেছিল <br> -S grabbed accepted picked received <br> -A gave returned refused
+
+left : She left the meeting early. <br> <b> Verb </b> <br> leave , left , left <br> -B চলে-গিয়েছিল ত্যাগকরেছিল ছেড়েছিল <br> -S departed exited abandoned withdrew <br> -A stayed remained arrived
+
+succeed : If you work hard, you will succeed in life. <br> <b> Verb </b> <br> succeed , succeeded , succeeded <br> -B সফলহওয়া কৃতকার্যহওয়া উন্নতিহওয়া <br> -S prosper achieve prevail triumph <br> -A fail lose collapse
+
+succeeded : Yunus succeeded Hasina as head of government. <br> <b> Verb </b> <br> succeed , succeeded , succeeded <br> -B স্থলাভিষিক্তহওয়া উত্তরাধিকারীহওয়া সফলহওয়া <br> -S replaced followed superseded inherited <br> -A preceded failed resigned
+
+detrimental : Smoking is detrimental to health. <br> <b> Adjective </b> <br> -B ক্ষতিকর অনিষ্টকর অপকারী <br> -S harmful damaging injurious adverse <br> -A beneficial helpful favorable
+
+detriments : Due to the detriments of esports, we must ban it. <br> <b> Noun </b> <br> -B ক্ষতি অপকার অসুবিধা <br> -S harms disadvantages damages drawbacks <br> -A benefits advantages gains
+
+ban : Forbidding esports is essential. <br> <b> Verb </b> <br> ban , banned , banned <br> -B নিষিদ্ধকরা বাধাদেওয়া নিষেধাজ্ঞাদেওয়া <br> -S ban forbid prohibit outlaw <br> -A allow permit approve
+
+forbid : Forbidding esports is essential. <br> <b> Verb </b> <br> forbid , forbade , forbidden <br> -B নিষিদ্ধকরা মানাকরা বাধাদেওয়া <br> -S ban prohibit outlaw disallow <br> -A allow permit approve
+
+lies : She lies on the sofa every time. <br> <b> Verb </b> <br> lie , lay , lain <br> -B শোয় শুয়েথাকে অবস্থানকরে <br> -S reclines rests lounges reposes <br> -A stands rises sits
+
+lay : She lay with me yesterday. <br> <b> Verb </b> <br> lie , lay , lain <br> -B শুয়েছিল অবস্থানকরেছিল বিশ্রামনিয়েছিল <br> -S reclined rested reposed lounged <br> -A stood rose sat
+
+lain : We have lain together since 2025. <br> <b> Verb </b> <br> lie , lay , lain <br> -B শুয়েআছি অবস্থানকরেছি বিশ্রামনিয়েছি <br> -S reclined rested reposed lounged <br> -A stood risen sat
+
+lie : She lied yesterday in the meeting. <br> <b> Verb </b> <br> lie , lied , lied <br> -B মিথ্যাবলা মিথ্যাকথাবলা প্রতারণাকরা <br> -S deceive fib falsify mislead <br> -A tell-truth confess admit
+
+sincerity : His sincerity won everyone's heart. <br> <b> Noun </b> <br> -B আন্তরিকতা সততা নিষ্ঠা <br> -S honesty genuineness earnestness integrity <br> -A insincerity hypocrisy deceit
+
+sincere : His sincere smile made me happy. <br> <b> Adjective </b> <br> -B আন্তরিক সৎ অকপট <br> -S honest genuine earnest heartfelt <br> -A insincere fake hypocritical
+
+opportune : This is an opportune moment to learn. <br> <b> Adjective </b> <br> -B উপযুক্ত সময়োচিত সুবিধাজনক <br> -S timely suitable favorable convenient <br> -A inopportune unsuitable untimely
+
+opportunity : I missed the opportunity because of our exams. <br> <b> Noun </b> <br> -B সুযোগ সম্ভাবনা সুবিধা <br> -S chance opening prospect occasion <br> -A obstacle barrier hindrance
+
+obstacle : Lack of knowledge is a big barrier to bug bounty. <br> <b> Noun </b> <br> -B বাধা প্রতিবন্ধক অন্তরায় <br> -S obstacle barrier hindrance impediment <br> -A help aid advantage
+
+barrier : Lack of knowledge is a big barrier to bug bounty. <br> <b> Noun </b> <br> -B বাধা প্রতিবন্ধক প্রাচীর <br> -S obstacle hindrance impediment blockade <br> -A help aid opening
+
+become : She has become the champion. <br> <b> Verb </b> <br> become , became , become <br> -B হয়েছে পরিণতহয়েছে রূপান্তরিতহয়েছে <br> -S turned grown developed transformed <br> -A remained stayed ceased
+
+seek : I seek nothing but the love of Allah. <br> <b> Verb </b> <br> seek , sought , sought <br> -B খোঁজা অনুসন্ধানকরা কামনাকরা <br> -S pursue search request desire <br> -A avoid ignore reject
+
+sought : I sought my lost pen yesterday. <br> <b> Verb </b> <br> seek , sought , sought <br> -B খুঁজেছিলাম অনুসন্ধানকরেছিলাম চেয়েছিলাম <br> -S searched pursued requested desired <br> -A avoided ignored rejected

@@ -1,0 +1,213 @@
+Absurd : The idea that Earth is flat is absurd. <br> <b> Adjective </b> <br> -B অযৌক্তিক অবাস্তব হাস্যকর অর্থহীন <br> -S absurd illogical unreasonable irrational <br> -A reasonable logical sensible rational
+
+Reasonable : His opinion on this topic was reasonable. <br> <b> Adjective </b> <br> -B যুক্তিসংগত গ্রহণযোগ্য ন্যায্য সুবিবেচনাপ্রসূত <br> -S reasonable sensible logical fair <br> -A unreasonable illogical absurd unfair
+
+sensible : He made a sensible decision and saved our organization. <br> <b> Adjective </b> <br> -B বুদ্ধিমান যুক্তিসংগত বিচক্ষণ বাস্তববাদী <br> -S sensible reasonable wise practical <br> -A foolish irrational unreasonable reckless
+
+Discard : I discarded my old notebooks. <br> <b> Verb </b> <br> discard , discarded , discarded <br> -B ফেলে-দেওয়া বর্জন-করা পরিত্যাগ-করা বাদ-দেওয়া <br> -S discard throw away dump eliminate <br> -A keep retain preserve collect
+
+Forsake : I will never forsake her in any circumstances, InshaAllah. <br> <b> Verb </b> <br> forsake , forsook , forsaken <br> -B পরিত্যাগ-করা ত্যাগ-করা ছেড়ে-যাওয়া বিসর্জন-দেওয়া <br> -S forsake abandon desert leave <br> -A support protect keep cherish
+
+Agony : The agony of losing her is unbearable. <br> <b> Noun </b> <br> -B যন্ত্রণা তীব্র-ব্যথা কষ্ট ক্লেশ <br> -S agony pain suffering torment <br> -A comfort relief happiness pleasure
+
+Grief : May Allah give you courage to bear this grief. <br> <b> Noun </b> <br> -B শোক দুঃখ বেদনা মনোকষ্ট <br> -S grief sorrow sadness distress <br> -A happiness joy relief comfort
+
+Affliction : Poverty is a great affliction for many people. <br> <b> Noun </b> <br> -B দুঃখ দুর্দশা কষ্ট বিপদ <br> -S affliction hardship suffering distress <br> -A comfort relief prosperity happiness
+
+Ruin : Corn was the cause of his ruin. <br> <b> Noun </b> <br> -B ধ্বংস সর্বনাশ পতন বিনাশ <br> -S ruin destruction downfall collapse <br> -A success prosperity build recovery
+
+ruined : Nazu ruined everything. <br> <b> Verb </b> <br> ruin , ruined , ruined <br> -B ধ্বংস-করা নষ্ট-করা শেষ-করা বিপর্যস্ত-করা <br> -S ruin destroy damage spoil <br> -A build repair save restore
+
+Fatal : Taking loans was a fatal decision which ruined everything. <br> <b> Adjective </b> <br> -B মারাত্মক প্রাণঘাতী ধ্বংসাত্মক বিপজ্জনক <br> -S fatal deadly disastrous catastrophic <br> -A safe harmless beneficial positive
+
+Unlettered : This is an unlettered bird. <br> <b> Adjective </b> <br> -B অশিক্ষিত অজ্ঞ অশিক্ষিত-মানুষের-মতো <br> -S uneducated illiterate ignorant unschooled <br> -A educated literate learned knowledgeable
+
+recite : Rifat failed to narrate an easy sentence. <br> <b> Verb </b> <br> recite , recited , recited <br> -B আবৃত্তি-করা পাঠ-করা মুখস্থ-বলা <br> -S recite narrate repeat deliver <br> -A ignore skip forget omit
+
+Cite : I like to quote scientific evidence in my writings. <br> <b> Verb </b> <br> cite , cited , cited <br> -B উল্লেখ-করা উদ্ধৃতি-দেওয়া প্রমাণ-দেওয়া <br> -S cite quote refer mention <br> -A ignore conceal omit hide
+
+incite : Modi's speech provoked violence in Gujarat. <br> <b> Verb </b> <br> incite , incited , incited <br> -B উস্কানি-দেওয়া প্ররোচিত-করা উত্তেজিত-করা <br> -S incite provoke instigate inflame <br> -A calm suppress discourage pacify
+
+Excite : Her picture will stimulate us. <br> <b> Verb </b> <br> excite , excited , excited <br> -B উত্তেজিত-করা উদ্দীপিত-করা আনন্দিত-করা <br> -S excite stimulate arouse thrill <br> -A bore calm depress discourage
+
+citation : This book contains quotations from our prophet. <br> <b> Noun </b> <br> -B উদ্ধৃতি রেফারেন্স উল্লেখ তথ্যসূত্র <br> -S citation quotation reference mention <br> -A original plagiarism invention
+
+
+
+
+Devour : I can devour the whole cake at once. <br> <b> Verb </b> <br> devour , devoured , devoured <br> -B গোগ্রাসে-খাওয়া গ্রাস-করা ভক্ষণ-করা <br> -S consume gobble devour ingest <br> -A abstain avoid reject
+
+voracious : I was so voracious and ate everything. <br> <b> Adjective </b> <br> -B ভোজনরসিক লোভী-খাদক অতিভোজনকারী <br> -S ravenous greedy hungry insatiable <br> -A satisfied moderate restrained
+
+Flock : A swarm of Ababil birds destroyed the elephant army. <br> <b> Noun </b> <br> -B ঝাঁক দল সমাবেশ <br> -S flock swarm group herd <br> -A individual singleton loner
+
+jury : The tribunal declared Babor innocent. <br> <b> Noun </b> <br> -B জুরি বিচারকমণ্ডলী ট্রাইব্যুনাল <br> -S jury tribunal panel committee <br> -A defendant accused suspect
+
+Jurisdiction : The president can fire the PM under his jurisdiction. <br> <b> Noun </b> <br> -B এখতিয়ার কর্তৃত্ব বিচারিক-সীমা <br> -S authority control domain power <br> -A powerlessness limitation restriction
+
+Jurist : I will become a prominent jurist of cybersecurity laws. <br> <b> Noun </b> <br> -B আইনজ্ঞ বিচারবিশারদ আইনপণ্ডিত <br> -S legal-scholar lawyer expert <br> -A layman amateur novice
+
+flotilla : Sumud flotilla has been attacked by Israel. <br> <b> Noun </b> <br> -B নৌবহর বহর জাহাজবহর <br> -S flotilla fleet armada convoy <br> -A single-vessel lone-ship
+
+Summoned : The king summoned his minister for advice. <br> <b> Verb </b> <br> summon , summoned , summoned <br> -B তলব-করা ডাকা আহ্বান-করা <br> -S call invite summon request <br> -A dismiss ignore repel
+
+Voracity : The student's voracity for knowledge impressed the teacher. <br> <b> Noun </b> <br> -B প্রবল-ক্ষুধা জ্ঞানপিপাসা লোভ <br> -S appetite eagerness hunger craving <br> -A indifference apathy restraint
+
+abated : The storm has abated after hitting the Sundarbans mangrove forest. <br> <b> Verb </b> <br> abate , abated , abated <br> -B কমে-যাওয়া প্রশমিত-হওয়া হ্রাস-পাওয়া <br> -S lessen diminish subside ease <br> -A intensify worsen escalate
+
+deliberate : I have to deliberate properly before taking any decision. <br> <b> Verb </b> <br> deliberate , deliberated , deliberated <br> -B চিন্তাভাবনা-করা বিবেচনা-করা আলোচনা-করা <br> -S deliberate ponder consider reflect <br> -A ignore neglect disregard
+
+Deliberate : It was a deliberate decision that changed my life. <br> <b> Adjective </b> <br> -B ইচ্ছাকৃত পরিকল্পিত সচেতন <br> -S intentional purposeful calculated conscious <br> -A accidental careless unintended
+
+Libertine : Sakib is the most libertine cricketer. <br> <b> Noun </b> <br> -B লম্পট ভোগবাদী চরিত্রহীন-ব্যক্তি <br> -S rake debauchee womanizer hedonist <br> -A moralist saint puritan
+
+ponder : I have to deliberate deeply before taking any decision. <br> <b> Verb </b> <br> ponder , pondered , pondered <br> -B গভীরভাবে-ভাবা চিন্তা-করা বিবেচনা-করা <br> -S ponder deliberate reflect contemplate <br> -A ignore dismiss overlook
+
+Delighted : I was so delighted after getting my first bounty. <br> <b> Adjective </b> <br> -B আনন্দিত উৎফুল্ল প্রফুল্ল <br> -S pleased joyful thrilled happy <br> -A disappointed sad upset
+
+Handsome : It will get a handsome bounty in 2026 InshaAllah. <br> <b> Adjective </b> <br> -B উল্লেখযোগ্য বড়সড় আকর্ষণীয় <br> -S substantial generous considerable impressive <br> -A insignificant small meager
+
+Gilded : The gilded cage was so expensive. <br> <b> Adjective </b> <br> -B স্বর্ণমণ্ডিত সোনালী অলঙ্কৃত <br> -S golden decorated ornate luxurious <br> -A plain simple unadorned
+
+gild : Hasina tried to gild her corruption with the rhetoric of development. <br> <b> Verb </b> <br> gild , gilded , gilded <br> -B সোনার-প্রলেপ-দেওয়া চাকচিক্য-দেওয়া আড়াল-করা <br> -S embellish decorate gild beautify <br> -A strip expose reveal
+
+rhetorician : Pinaki is a great rhetorician who has made great criticism against BAL. <br> <b> Noun </b> <br> -B বাগ্মী অলঙ্কারশাস্ত্রবিদ বক্তা <br> -S orator speaker rhetorician debater <br> -A listener audience follower
+
+persuasiveness : Hujur has great persuasiveness skills. <br> <b> Noun </b> <br> -B প্রভাবিত-করার-ক্ষমতা প্ররোচনাশক্তি বাগ্মিতা <br> -S influence convincingness appeal effectiveness <br> -A ineffectiveness weakness dullness
+
+persuasive : He is the most persuasive member of the club. <br> <b> Adjective </b> <br> -B প্রভাবশালী বিশ্বাসযোগ্য যুক্তিপূর্ণ <br> -S convincing influential compelling effective <br> -A unconvincing weak ineffective
+
+persuaded : I persuaded her to marry Nabil. <br> <b> Verb </b> <br> persuade , persuaded , persuaded <br> -B রাজি-করানো বোঝানো প্ররোচিত-করা <br> -S convince influence persuade sway <br> -A dissuade discourage deter
+
+Dissuaded : I dissuaded Pintu bhai from hosting that program. <br> <b> Verb </b> <br> dissuade , dissuaded , dissuaded <br> -B নিবৃত্ত-করা বিরত-রাখা নিরুৎসাহিত-করা <br> -S deter discourage dissuade prevent <br> -A encourage persuade motivate
+
+dissuasion : The process of dissuasion from crime is tough. <br> <b> Noun </b> <br> -B নিরুৎসাহ নিরস্তকরণ বিরতকরণ <br> -S deterrence discouragement restraint prevention <br> -A persuasion encouragement motivation
+
+aspire : I aspire to conquer Delhi. <br> <b> Verb </b> <br> aspire , aspired , aspired <br> -B আকাঙ্ক্ষা_করা উচ্চাকাঙ্ক্ষা_পোষণ_করা লক্ষ্য_রাখা <br> -S aim seek strive yearn <br> -A abandon despair surrender
+
+conspire : Hasina is conspiring against Bangladesh from India. <br> <b> Verb </b> <br> conspire , conspired , conspired <br> -B ষড়যন্ত্র_করা চক্রান্ত_করা পরিকল্পনা_করা <br> -S plot scheme collaborate intrigue <br> -A assist support cooperate
+
+Transpired : The truth finally transpired. <br> <b> Verb </b> <br> transpire , transpired , transpired <br> -B প্রকাশ_পাওয়া উদ্ঘাটিত_হওয়া জানা_যাওয়া <br> -S emerge unfold appear surface <br> -A conceal hide suppress
+
+aspirant : The aspirant gave an aspirational speech to the students. <br> <b> Noun </b> <br> -B প্রার্থী প্রত্যাশী আগ্রহী_ব্যক্তি <br> -S candidate applicant contender seeker <br> -A reject opponent rival
+
+Aspirational : The aspirant gave an aspirational speech to the students. <br> <b> Adjective </b> <br> -B অনুপ্রেরণামূলক উচ্চাভিলাষী আকাঙ্ক্ষামূলক <br> -S ambitious inspiring motivational visionary <br> -A discouraging unambitious hopeless
+
+rely : I only depend on Allah for everything. <br> <b> Verb </b> <br> rely , relied , relied <br> -B নির্ভর_করা ভরসা_করা আস্থা_রাখা <br> -S rely depend trust count_on <br> -A doubt distrust ignore
+
+liable : Chief Justice Khairul is mainly liable for the Awami anarchy. <br> <b> Adjective </b> <br> -B দায়ী দায়বদ্ধ জবাবদিহিমূলক <br> -S responsible accountable answerable culpable <br> -A innocent exempt blameless
+
+lies : The gazelle's power lies in its strong legs. <br> <b> Verb </b> <br> lie , lay , lain <br> -B নিহিত_থাকা অবস্থান_করা থাকা <br> -S rest exist remain reside <br> -A depart vanish disappear
+
+eager : I am so enthusiastic to see her for the first time. <br> <b> Adjective </b> <br> -B আগ্রহী উৎসুক উদগ্রীব <br> -S eager enthusiastic keen excited <br> -A indifferent reluctant unwilling
+
+eagerness : Never mar the eagerness of a kid. <br> <b> Noun </b> <br> -B আগ্রহ উৎসাহ উদ্দীপনা <br> -S enthusiasm zeal excitement passion <br> -A apathy indifference reluctance
+
+unjust : We will not obey any unjust decision of the committee. <br> <b> Adjective </b> <br> -B অন্যায় অবিচারপূর্ণ পক্ষপাতদুষ্ট <br> -S unfair inequitable biased wrongful <br> -A just fair impartial
+
+envoy : A UN delegate will come to visit the Aynaghar. <br> <b> Noun </b> <br> -B দূত প্রতিনিধি বার্তাবাহক <br> -S envoy delegate emissary ambassador <br> -A citizen resident local
+
+exiled : Hasina was banished to India. <br> <b> Verb </b> <br> exile , exiled , exiled <br> -B নির্বাসিত_করা দেশান্তরিত_করা বহিষ্কার_করা <br> -S exiled banished expelled deported <br> -A welcome admit retain
+
+exile : Humayun spent his exile in Persia. <br> <b> Noun </b> <br> -B নির্বাসন দেশান্তর বহিষ্কার <br> -S banishment expulsion deportation displacement <br> -A residence citizenship return
+
+humble : Tanvir bhai is a modest man despite his success. <br> <b> Adjective </b> <br> -B বিনয়ী নম্র অহংকারহীন <br> -S humble modest meek unpretentious <br> -A conceited arrogant proud
+
+exhumed : The bodies of the martyrs were exhumed for DNA tests. <br> <b> Verb </b> <br> exhumed , exhumed , exhumed <br> -B কবর_থেকে_তোলা উত্তোলন_করা খনন_করা <br> -S unearthed dug_up disinterred uncovered <br> -A bury conceal inter
+
+posthumous : Abrar Fahad received a posthumous Independence Award. <br> <b> Adjective </b> <br> -B মরণোত্তর মৃত্যুর_পর_প্রদত্ত পরলোকগত <br> -S afterdeath postmortem commemorative memorial <br> -A living current present
+
+coexist : Chhatradal and Shibir can coexist peacefully on the campus. <br> <b> Verb </b> <br> coexist , coexisted , coexisted <br> -B সহাবস্থান_করা একসাথে_থাকা শান্তিপূর্ণভাবে_থাকা <br> -S coexist harmonize live_together cooperate <br> -A conflict clash oppose
+
+coexistence : Coexistence among political parties is essential for peace and national development. <br> <b> Noun </b> <br> -B সহাবস্থান সহমর্মিতা সমন্বয় <br> -S harmony coexistence cooperation compatibility <br> -A conflict hostility division
+
+preexisted : This belief preexisted among Muslims before modern science. <br> <b> Verb </b> <br> preexist , preexisted , preexisted <br> -B পূর্বথেকে_বিদ্যমান_থাকা আগে_থাকা পূর্বঅস্তিত্ব_থাকা <br> -S precede antedate predate forego <br> -A follow succeed result
+
+plight : The predicament of Indian Muslims cannot be described in words. <br> <b> Noun </b> <br> -B দুর্দশা সংকট করুণ_অবস্থা <br> -S plight predicament hardship distress <br> -A comfort prosperity advantage
+
+onrush : The surge of floodwater destroyed the village. <br> <b> Noun </b> <br> -B প্রবল_ধাবন আকস্মিক_আক্রমণ স্রোত <br> -S onrush surge rush torrent <br> -A retreat withdrawal slowdown
+
+rush : Traffic jams are common in rush hour. <br> <b> Noun </b> <br> -B ভিড় তাড়াহুড়া ব্যস্ততা <br> -S hurry haste bustle urgency <br> -A delay calm leisure
+
+accommodated : Bangladesh has accommodated millions of Rohingya refugees. <br> <b> Verb </b> <br> accommodate , accommodated , accommodated <br> -B আশ্রয়_দেওয়া জায়গা_দেওয়া মানিয়ে_নেওয়া <br> -S house shelter host receive <br> -A expel reject displace
+
+accommodaton : The UN has helped us create safe accommodation for Rohingya refugees. <br> <b> Noun </b> <br> -B আবাসন বাসস্থান আশ্রয় <br> -S lodging housing shelter residence <br> -A eviction homelessness displacement
+
+accommodation : I am very accommodating to every needy and suffering person. <br> <b> Adjective </b> <br> -B সহানুভূতিশীল সহযোগিতাপূর্ণ মানিয়ে_নেওয়া <br> -S helpful obliging cooperative considerate <br> -A stubborn unhelpful inflexible
+
+inhuman : We cannot bear this sort of inhuman activity. <br> <b> Adjective </b> <br> -B অমানবিক নিষ্ঠুর নির্মম <br> -S cruel brutal merciless savage <br> -A humane kind compassionate
+
+substantial : I can provide some significant help to the flood victims. <br> <b> Adjective </b> <br> -B উল্লেখযোগ্য যথেষ্ট গুরুত্বপূর্ণ <br> -S substantial significant considerable sizeable <br> -A insignificant trivial minor
+
+immensely : I was immensely happy after I had seen her. <br> <b> Adverb </b> <br> -B অত্যন্ত অপরিসীমভাবে খুবই <br> -S greatly enormously tremendously exceedingly <br> -A slightly barely marginally
+
+immense : His contribution to this project was immense. <br> <b> Adjective </b> <br> -B বিশাল বিপুল অপরিসীম <br> -S huge vast enormous tremendous <br> -A tiny small limited
+
+immensity : The immensity of his mansion amazed us. <br> <b> Noun </b> <br> -B বিশালতা বিপুলতা ব্যাপকতা <br> -S vastness enormity magnitude greatness <br> -A smallness tininess limitation
+
+assessor : You need to pass the NCTB exam to become an assessor of board exams. <br> <b> Noun </b> <br> -B মূল্যায়নকারী পরীক্ষক নির্ধারক <br> -S evaluator examiner appraiser reviewer <br> -A candidate examinee participant
+
+assess : Three thousand assessors will evaluate our assessment papers. <br> <b> Verb </b> <br> assess , assessed , assessed <br> -B মূল্যায়ন_করা বিচার_করা নিরূপণ_করা <br> -S assess evaluate appraise judge <br> -A misjudge overlook ignore
+
+perseverance : Perseverance is the key to success. <br> <b> Noun </b> <br> -B অধ্যবসায় অধ্যবসায়িতা দৃঢ়তা <br> -S perseverance diligence persistence determination <br> -A laziness negligence surrender
+
+plea : My appeal was accepted by her father. <br> <b> Noun </b> <br> -B আবেদন অনুরোধ মিনতি <br> -S plea appeal request supplication <br> -A demand command order
+
+pleader : The pleader has pleaded for help. <br> <b> Noun </b> <br> -B আইনজীবী আবেদনকারী পক্ষসমর্থক <br> -S pleader lawyer advocate petitioner <br> -A opponent accuser
+
+reverie : After hearing my offer, he was lost in a pleasant muse. <br> <b> Noun </b> <br> -B দিবাস্বপ্ন কল্পনা ভাবনার_জগৎ <br> -S reverie muse trance daydream <br> -A reality awareness focus
+
+muse : I found my muse in Osman R.A and others. <br> <b> Noun </b> <br> -B অনুপ্রেরণা প্রেরণাদাত্রী ভাবনাসূত্র <br> -S inspiration inspiration_source creative_force inspiration <br> -A discouragement blockage hindrance
+
+gazed : I stared at her and she gazed into my eyes. <br> <b> Verb </b> <br> gaze , gazed , gazed <br> -B তাকানো একদৃষ্টে_চেয়ে_থাকা নিরীক্ষণ <br> -S stare peer glance behold <br> -A ignore avert_eyes look_away
+
+gaze : Her gaze was full of sadness. <br> <b> Noun </b> <br> -B দৃষ্টি তাকানো একদৃষ্ট চাহনি <br> -S stare glance look view <br> -A blindness inattention
+
+broken-winged : Without dreams, life is a broken-winged bird. <br> <b> Adjective </b> <br> -B ভগ্নপক্ষ দুর্বল ভাঙা_আশাহীন <br> -S helpless crippled damaged weakened <br> -A strong healthy complete
+
+cripple : India wants to cripple us economically and militarily. <br> <b> Verb </b> <br> cripple , crippled , crippled <br> -B পঙ্গু_করা দুর্বল_করা অচল_করা <br> -S disable weaken impair paralyze <br> -A strengthen empower support
+
+manacles : The July revolution broke the manacles of oppression. <br> <b> Noun </b> <br> -B শৃঙ্খল হাতকড়া বন্ধন <br> -S chains shackles restraints bonds <br> -A freedom liberty release
+
+obtain : Insha'Allah, I will attain this certificate. <br> <b> Verb </b> <br> obtain , obtained , obtained <br> -B অর্জন_করা পাওয়া লাভ_করা <br> -S obtain attain gain acquire <br> -A lose forfeit surrender
+
+detain : Naju cannot detain Liton's wife. <br> <b> Verb </b> <br> detain , detained , detained <br> -B আটক_করা ধরে_রাখা বন্দি_করা <br> -S hold arrest confine imprison <br> -A release free liberate
+
+obstruct : Lack of access to healthcare can impede a girl from having a safe pregnancy. <br> <b> Verb </b> <br> obstruct , obstructed , obstructed <br> -B বাধা_দেওয়া প্রতিবন্ধকতা_সৃষ্টি_করা <br> -S obstruct impede hinder block <br> -A assist help facilitate
+
+morbidities : The morbidities faced by young brides are often ignored by society. <br> <b> Noun </b> <br> -B অসুস্থতা রোগজটিলতা স্বাস্থ্যসমস্যা <br> -S illnesses disorders conditions ailments <br> -A health wellness fitness
+
+malnutrition : Malnutrition remains a major problem in developing countries. <br> <b> Noun </b> <br> -B অপুষ্টি পুষ্টিহীনতা দুর্বল_পুষ্টি <br> -S undernourishment starvation deficiency weakness <br> -A nutrition health nourishment
+
+pressurized : I was badly pressurized to sign the document. <br> <b> Verb </b> <br> pressurize , pressurized , pressurized <br> -B চাপ_দেওয়া বাধ্য_করা জোর_করা <br> -S pressure coerce force compel <br> -A persuade encourage support
+
+yardstick : External beauty is never the yardstick of evaluation. <br> <b> Noun </b> <br> -B মানদণ্ড পরিমাপক বিচার_মান <br> -S standard measure criterion benchmark <br> -A bias subjectivity randomness
+
+lucrative : This idea looks so profitable. <br> <b> Adjective </b> <br> -B লাভজনক লাভদায়ক আয়কারী <br> -S lucrative profitable gainful rewarding <br> -A worthless unprofitable futile
+
+drawbacks : Although it looks lucrative, it also has some flaws. <br> <b> Noun </b> <br> -B দুর্বলতা ত্রুটি অসুবিধা <br> -S drawbacks flaws cons disadvantages <br> -A benefits advantages strengths
+
+entertaining : An activity may be entertaining to one but deadly to another. <br> <b> Adjective </b> <br> -B বিনোদনমূলক মজার আনন্দদায়ক <br> -S amusing enjoyable engaging fun <br> -A boring dull uninteresting
+
+attentive : Alhamdulillah, I am so attentive to my studies. <br> <b> Adjective </b> <br> -B মনোযোগী সতর্ক একাগ্র <br> -S focused alert observant mindful <br> -A careless distracted inattentive
+
+attentively : You have to solve these questions attentively. <br> <b> Adverb </b> <br> -B মনোযোগসহকারে সতর্কভাবে একাগ্রভাবে <br> -S carefully closely diligently earnestly <br> -A carelessly casually negligently
+
+attentiveness : Retaining attentiveness is hard but essential for learning. <br> <b> Noun </b> <br> -B মনোযোগ একাগ্রতা সতর্কতা <br> -S focus concentration awareness alertness <br> -A distraction negligence inattentiveness
+
+docile : Elephant is known for its docile nature around humans. <br> <b> Adjective </b> <br> -B শান্ত বশীভূত নম্র <br> -S obedient gentle mild tame <br> -A aggressive wild stubborn
+
+partial : Partial knowledge is often worse than ignorance. <br> <b> Adjective </b> <br> -B অসম্পূর্ণ আংশিক পক্ষপাতদুষ্ট <br> -S incomplete biased limited unfair <br> -A complete fair whole
+
+impoverished : It is one of the most impoverished areas of Gazipur. <br> <b> Adjective </b> <br> -B দরিদ্র নিঃস্ব হতদরিদ্র <br> -S poor destitute deprived needy <br> -A wealthy rich prosperous
+
+empathetic : We have to be empathetic towards the poor people. <br> <b> Adjective </b> <br> -B সহানুভূতিশীল অনুভূতিশীল দয়ালু <br> -S compassionate understanding caring sensitive <br> -A insensitive indifferent cruel
+
+conscientious : Fostering an empathetic and conscientious approach to our interaction. <br> <b> Adjective </b> <br> -B বিবেকবান দায়িত্বশীল যত্নবান <br> -S careful diligent responsible ethical <br> -A careless negligent irresponsible
+
+superficial : A superficial understanding can be more harmful than beneficial. <br> <b> Adjective </b> <br> -B উপরিভাগীয় অগভীর বাহ্যিক <br> -S shallow surface-level cursory incomplete <br> -A deep thorough profound
+
+desperate : Someone in a desperate situation will try their best. <br> <b> Adjective </b> <br> -B মরিয়া হতাশ চরম_আকাঙ্ক্ষী <br> -S hopeless frantic urgent extreme <br> -A hopeful calm satisfied
+
+
+
